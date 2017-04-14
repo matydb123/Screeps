@@ -3,6 +3,6 @@ var MRooms = (require('MRoom'));
 
 module.exports.loop = function ()
 { 
-    var Room =new  MRooms.constructor();
+    var Room =new  MRooms.constructor();tt
  
 };
